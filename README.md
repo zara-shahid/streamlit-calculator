@@ -45,7 +45,7 @@ bash
 
 pip install streamlit numpy
 
-## 3️⃣ Run the app:
+3️⃣ Run the app:
 
 bash
 
